@@ -88,7 +88,7 @@ para usuarios del heroku
 ***
 -----
 ### 🟢 INFINITY-HOST
-> Activar **ShizukaBot-MD** 24/7 activo en Infinity-Host
+> Activar **TaejooBot-MD** 24/7 activo en Infinity-Host
 
 <a href="https://dashboard.infinitywa.xyz"><img src="https://qu.ax/XLCK.jpg" height="125px"></a>
 ### Información del Host
@@ -128,12 +128,10 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
   ## `CREADOR  & PROPIETARIO DEL BOT` 
 <a href="https://github.com/Alba070503"><img src="https://github.com/Alba070503.png" width="300" height="300" alt="Alba070503"/></a>
 
-`ShizukaBot-MD - By @Alba070503 `
-#### COLABORADORES 
+`taejooBot-MD - By @🪐  ׁ ⊹ 𝒦ᵤʀ𝕒ρꪱׁׁׁׅׅׅ𝐤𝒂   𓈒 `
 
-<a href="https://github.com/Alba070503-Official/ShizukaBot-MD/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=Alba070503-Official/ShizukaBot-MD"
-</a>
+
+
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
