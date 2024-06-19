@@ -1,4 +1,4 @@
-## ShizukaBot-MD By Alba070503 ✨
+## Taejoobot-MD By 🪐  ׁ ⊹ 𝒦ᵤʀ𝕒ρꪱׁׁׁׅׅׅ𝐤𝒂   𓈒 
 
 <p align="center">
 <img src="https://github.com/Alba070503-Official/ShizukaBot-MD/blob/main/media/menus/Menu1.jpg" alt="ShizukaBot-MD" width="900"/>
