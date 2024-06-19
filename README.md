@@ -17,9 +17,9 @@
 </a>
 
 ### Ejemplo 
-Sigueme en mi canal de WhatsApp donde subo actualizaciónes del bot (⁠・⁠∀⁠・⁠)
+Sigueme en mi canal de WhatsApp donde subo actualizaciónes del bot 🪐💐💗 ꉂ(ˊᗜˋ*)♡
 
-<a href="https://whatsapp.com/channel/0029VaAN15BJP21BYCJ3tH04">
+<a href="https://whatsapp.com/channel/0029VadzN7u9mrGjjBPUpU3i">
   <img src="https://img.shields.io/badge/ShizukaBot-MD-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
